@@ -18,12 +18,13 @@ public class cubeProtoMiove : MonoBehaviour
 		if (Input.GetKey(KeyCode.W))
 		{
 			transform.Translate(0.2f * CubeSpeed, 0f,0f);
-			TimeManager.instance.SlowDown();
+			
+			Time.timeScale = 1;	
 		}
 
 		else
 		{
-			Time.timeScale = 1;
+			TimeManager.instance.SlowDown();
 		}
 	}
 }

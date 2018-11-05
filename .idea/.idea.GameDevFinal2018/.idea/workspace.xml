@@ -12,19 +12,20 @@
     <session id="-2050739126">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="692" />
+          <entry key="cs" value="715" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="692" />
+          <entry key="C#" value="715" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -40,28 +41,29 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+            <state relative-caret-position="360">
+              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
               <folding>
-                <marker date="1541088824668" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541088824668" expanded="true" signature="123:403" ph="{...}" />
-                <marker date="1541088824668" expanded="true" signature="208:218" ph="{...}" />
-                <marker date="1541088824668" expanded="true" signature="273:401" ph="{...}" />
-                <marker date="1541088824668" expanded="true" signature="305:398" ph="{...}" />
+                <marker date="1541383556469" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541383556469" expanded="true" signature="123:447" ph="{...}" />
+                <marker date="1541383556469" expanded="true" signature="208:218" ph="{...}" />
+                <marker date="1541383556469" expanded="true" signature="273:445" ph="{...}" />
+                <marker date="1541383556469" expanded="true" signature="305:390" ph="{...}" />
+                <marker date="1541383556469" expanded="true" signature="398:442" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/TimeManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="735">
-              <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+            <state relative-caret-position="530">
+              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
               <folding>
                 <marker date="1541088856173" expanded="false" signature="6:78" ph="..." />
                 <marker date="1541088856173" expanded="true" signature="120:819" ph="{...}" />
@@ -73,16 +75,6 @@
               </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Week09_codeArchitecture/Assets/scripts/GameManager.cs">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Week09_codeArchitecture/Assets/scripts/Clickable.cs">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -100,8 +92,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs" />
         <option value="$PROJECT_DIR$/Assets/Scenes/scriptsRen/TimeManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs" />
       </list>
     </option>
   </component>
@@ -122,13 +114,13 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="FileSystemExplorer" />
       <pane id="UnityExplorer">
         <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
       </pane>
+      <pane id="FileSystemExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,11 +167,12 @@
       <option name="presentableId" value="Default" />
       <updated>1541084775043</updated>
       <workItem from="1541084780056" duration="3769000" />
+      <workItem from="1541382230312" duration="746000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3769000" />
+    <option name="totallyTimeSpent" value="4515000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -193,17 +186,9 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unity" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -211,12 +196,20 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Unit Tests Coverage" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -243,30 +236,16 @@
         <state relative-caret-position="-225" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../Week09_codeArchitecture/Assets/scripts/GameManager.cs">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../Week09_codeArchitecture/Assets/scripts/Clickable.cs">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
-          <folding>
-            <marker date="1541088824668" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541088824668" expanded="true" signature="123:403" ph="{...}" />
-            <marker date="1541088824668" expanded="true" signature="208:218" ph="{...}" />
-            <marker date="1541088824668" expanded="true" signature="273:401" ph="{...}" />
-            <marker date="1541088824668" expanded="true" signature="305:398" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/../Week09_codeArchitecture/Assets/scripts/GameManager.cs">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/TimeManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+        <state relative-caret-position="530">
+          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
           <folding>
             <marker date="1541088856173" expanded="false" signature="6:78" ph="..." />
             <marker date="1541088856173" expanded="true" signature="120:819" ph="{...}" />
@@ -275,6 +254,21 @@
             <marker date="1541088856173" expanded="true" signature="443:724" ph="{...}" />
             <marker date="1541088856173" expanded="true" signature="447:674" ph="/* if (Input.GetKeyDown(KeyCode.P)) ... */" />
             <marker date="1541088856173" expanded="true" signature="749:814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <folding>
+            <marker date="1541383556469" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541383556469" expanded="true" signature="123:447" ph="{...}" />
+            <marker date="1541383556469" expanded="true" signature="208:218" ph="{...}" />
+            <marker date="1541383556469" expanded="true" signature="273:445" ph="{...}" />
+            <marker date="1541383556469" expanded="true" signature="305:390" ph="{...}" />
+            <marker date="1541383556469" expanded="true" signature="398:442" ph="{...}" />
           </folding>
         </state>
       </provider>
