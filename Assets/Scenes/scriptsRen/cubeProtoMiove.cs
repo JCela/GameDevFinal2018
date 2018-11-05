@@ -20,5 +20,10 @@ public class cubeProtoMiove : MonoBehaviour
 			transform.Translate(0.2f * CubeSpeed, 0f,0f);
 			TimeManager.instance.SlowDown();
 		}
+
+		else
+		{
+			Time.timeScale = 1;
+		}
 	}
 }
