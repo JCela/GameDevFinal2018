@@ -5,6 +5,7 @@ using UnityEngine;
 
 public class RotateToMouse : MonoBehaviour
 {
+	//this isn't relevant, just rotates the circle object
 
 	public Camera cam;
 
@@ -23,6 +24,7 @@ public class RotateToMouse : MonoBehaviour
 	void Update () {
 		if (cam != null)
 		{
+			//uses raycasting to rotate the circle
 			RaycastHit hit;
 			var mousePos = Input.mousePosition;
 			rayMouse = cam.ScreenPointToRay(mousePos);
@@ -32,6 +34,7 @@ public class RotateToMouse : MonoBehaviour
 			}
 			else
 			{
+				//functions even outside of screen
 				var pos = rayMouse.GetPoint(maximunLength);
 				RotateToMouseDirection(gameObject, pos);
 			}
@@ -48,6 +51,7 @@ public class RotateToMouse : MonoBehaviour
 
 	public Quaternion GetRotation()
 	{
+		//sends value to other script
 		return rotation;
 	}
 }
