@@ -6,7 +6,7 @@ public class cubeProtoMiove : MonoBehaviour
 {
 
 
-	public float CubeSpeed = 0.5f; 
+	public float CubeSpeed = 0.5f; //normal speed of the cube
 	// Use this for initialization
 	void Start () {
 		
@@ -15,16 +15,16 @@ public class cubeProtoMiove : MonoBehaviour
 	
 	// Update is called once per frame
 	void Update () {
-		if (Input.GetKey(KeyCode.W))
+		if (Input.GetKey(KeyCode.W)) //if W is pressed 
 		{
-			transform.Translate(0.2f * CubeSpeed, 0f,0f);
+			transform.Translate(0.2f * CubeSpeed, 0f,0f); //moving the cube
 			
-			Time.timeScale = 1;	
+			Time.timeScale = 1;	//setting time to "normal time" when you move
 		}
 
 		else
 		{
-			TimeManager.instance.SlowDown();
+			TimeManager.instance.SlowDown(); //calling the slowdown function if you aren't moving
 		}
 	}
 }

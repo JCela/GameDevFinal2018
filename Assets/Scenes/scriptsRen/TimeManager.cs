@@ -12,15 +12,15 @@ public class TimeManager : MonoBehaviour
 
 	//public float TimeScale = 1;
 
-	public float slowDownFactor = 0.5f;
+	public float slowDownFactor = 0.5f; //sets variable for on a scale from 0=>1, how slow do we go? 
 
-	public float slowdownLength;
+	//public float slowdownLength;
 
-	public static TimeManager instance; 
+	public static TimeManager instance; //making this manager a static instance
 	// Use this for initialization
 	 void Start()
 	{
-		instance = this; 
+		instance = this; //setting the static instance
 	}
 
 	// Update is called once per frame
@@ -46,10 +46,10 @@ public class TimeManager : MonoBehaviour
 		//Delta = Time.deltaTime * TimeScale;
 	}
 
-	public void SlowDown()
+	public void SlowDown() //a function to call when you want something to slow down
 	{
-		Time.timeScale = slowDownFactor;
-		Debug.Log("TimeMan");
+		Time.timeScale = slowDownFactor; //set the time scale = to the slowdownfactor
+		Debug.Log("TimeMan"); //debugging to be sure it's reading it
 	}
 
 	

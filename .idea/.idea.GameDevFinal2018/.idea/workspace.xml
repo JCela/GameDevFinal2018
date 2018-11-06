@@ -13,19 +13,20 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="cs" value="715" />
+          <entry key="cs" value="1182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="C#" value="715" />
+          <entry key="C#" value="1182" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,14 +47,14 @@
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+              <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
               <folding>
-                <marker date="1541383556469" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541383556469" expanded="true" signature="123:447" ph="{...}" />
-                <marker date="1541383556469" expanded="true" signature="208:218" ph="{...}" />
-                <marker date="1541383556469" expanded="true" signature="273:445" ph="{...}" />
-                <marker date="1541383556469" expanded="true" signature="305:390" ph="{...}" />
-                <marker date="1541383556469" expanded="true" signature="398:442" ph="{...}" />
+                <marker date="1541452747708" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541452747708" expanded="true" signature="123:608" ph="{...}" />
+                <marker date="1541452747708" expanded="true" signature="234:244" ph="{...}" />
+                <marker date="1541452747708" expanded="true" signature="299:606" ph="{...}" />
+                <marker date="1541452747708" expanded="true" signature="350:498" ph="{...}" />
+                <marker date="1541452747708" expanded="true" signature="506:603" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -62,16 +63,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/TimeManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="530">
-              <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+            <state relative-caret-position="515">
+              <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
               <folding>
-                <marker date="1541088856173" expanded="false" signature="6:78" ph="..." />
-                <marker date="1541088856173" expanded="true" signature="120:819" ph="{...}" />
-                <marker date="1541088856173" expanded="true" signature="126:208" ph="/* public float Delta; ... */" />
-                <marker date="1541088856173" expanded="true" signature="363:389" ph="{...}" />
-                <marker date="1541088856173" expanded="true" signature="443:724" ph="{...}" />
-                <marker date="1541088856173" expanded="true" signature="447:674" ph="/* if (Input.GetKeyDown(KeyCode.P)) ... */" />
-                <marker date="1541088856173" expanded="true" signature="749:814" ph="{...}" />
+                <marker date="1541452750144" expanded="false" signature="6:78" ph="..." />
+                <marker date="1541452750144" expanded="true" signature="120:1093" ph="{...}" />
+                <marker date="1541452750144" expanded="true" signature="126:208" ph="/* public float Delta; ... */" />
+                <marker date="1541452750144" expanded="true" signature="466:521" ph="{...}" />
+                <marker date="1541452750144" expanded="true" signature="575:856" ph="{...}" />
+                <marker date="1541452750144" expanded="true" signature="579:806" ph="/* if (Input.GetKeyDown(KeyCode.P)) ... */" />
+                <marker date="1541452750144" expanded="true" signature="939:1088" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -114,11 +115,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="UnityExplorer">
-        <option name="show-hidden-items" value="false" />
-      </pane>
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
       </pane>
       <pane id="FileSystemExplorer" />
     </panes>
@@ -168,11 +169,12 @@
       <updated>1541084775043</updated>
       <workItem from="1541084780056" duration="3769000" />
       <workItem from="1541382230312" duration="746000" />
+      <workItem from="1541452568913" duration="785000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4515000" />
+    <option name="totallyTimeSpent" value="5300000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -185,8 +187,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25302014" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25637585" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -244,16 +247,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/TimeManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="530">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
+        <state relative-caret-position="515">
+          <caret line="51" column="68" selection-start-line="51" selection-start-column="68" selection-end-line="51" selection-end-column="68" />
           <folding>
-            <marker date="1541088856173" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541088856173" expanded="true" signature="120:819" ph="{...}" />
-            <marker date="1541088856173" expanded="true" signature="126:208" ph="/* public float Delta; ... */" />
-            <marker date="1541088856173" expanded="true" signature="363:389" ph="{...}" />
-            <marker date="1541088856173" expanded="true" signature="443:724" ph="{...}" />
-            <marker date="1541088856173" expanded="true" signature="447:674" ph="/* if (Input.GetKeyDown(KeyCode.P)) ... */" />
-            <marker date="1541088856173" expanded="true" signature="749:814" ph="{...}" />
+            <marker date="1541452750144" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541452750144" expanded="true" signature="120:1093" ph="{...}" />
+            <marker date="1541452750144" expanded="true" signature="126:208" ph="/* public float Delta; ... */" />
+            <marker date="1541452750144" expanded="true" signature="466:521" ph="{...}" />
+            <marker date="1541452750144" expanded="true" signature="575:856" ph="{...}" />
+            <marker date="1541452750144" expanded="true" signature="579:806" ph="/* if (Input.GetKeyDown(KeyCode.P)) ... */" />
+            <marker date="1541452750144" expanded="true" signature="939:1088" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -261,14 +264,14 @@
     <entry file="file://$PROJECT_DIR$/Assets/Scenes/scriptsRen/cubeProtoMiove.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="26" column="44" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
+          <caret line="26" column="97" selection-start-line="26" selection-start-column="97" selection-end-line="26" selection-end-column="97" />
           <folding>
-            <marker date="1541383556469" expanded="false" signature="6:78" ph="..." />
-            <marker date="1541383556469" expanded="true" signature="123:447" ph="{...}" />
-            <marker date="1541383556469" expanded="true" signature="208:218" ph="{...}" />
-            <marker date="1541383556469" expanded="true" signature="273:445" ph="{...}" />
-            <marker date="1541383556469" expanded="true" signature="305:390" ph="{...}" />
-            <marker date="1541383556469" expanded="true" signature="398:442" ph="{...}" />
+            <marker date="1541452747708" expanded="false" signature="6:78" ph="..." />
+            <marker date="1541452747708" expanded="true" signature="123:608" ph="{...}" />
+            <marker date="1541452747708" expanded="true" signature="234:244" ph="{...}" />
+            <marker date="1541452747708" expanded="true" signature="299:606" ph="{...}" />
+            <marker date="1541452747708" expanded="true" signature="350:498" ph="{...}" />
+            <marker date="1541452747708" expanded="true" signature="506:603" ph="{...}" />
           </folding>
         </state>
       </provider>
